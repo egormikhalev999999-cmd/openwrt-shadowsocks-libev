@@ -8,3 +8,4 @@ shadowsocks-libev for openwrt 24.10 fork from [openwrt-23.05](https://github.com
 2. source address rule support ipv6 suffix match.
 3. fix `error: MBEDTLS_CIPHER_MODE_CFB required`
 4. fix `../../luci.mk: No such file or directory`
+.
